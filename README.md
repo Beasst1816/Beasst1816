@@ -8,9 +8,11 @@ I'm a passionate developer dedicated to building innovative solutions and learni
 
 ## Featured Projects
 
-- **[Project Name]** - Brief description of what this project does and the technologies used
-- **[Project Name]** - Brief description of what this project does and the technologies used
-- **[Project Name]** - Brief description of what this project does and the technologies used
+- **🔐 MyLocker: Digital Gatepass & Identity Ecosystem** - A robust, cross-platform digital gatepass and identity management system built with Flutter and Firebase. Features role-based access control, three-node architecture, atomic database transactions, and cost-optimized cloud infrastructure. Designed as a comprehensive B.Tech final year project.
+
+- **🎬 Vibe Match Movies** - A modern Flutter application that helps users discover films matching their current mood or "vibe." Built with a sleek, dark-themed interface providing an intuitive and immersive movie-browsing experience across iOS and Android platforms.
+
+- **🎮 Virtual Gamepad: Zero-Latency Tri-Mode Controller** - A high-performance virtual gamepad application built with Flutter that emulates a physical Xbox controller on Windows PC. Features tri-mode connectivity (UDP over Wi-Fi, Bluetooth, USB), invisible swipe camera controls, zero-lag binary UDP protocol, and kernel-level PC emulation via C# .NET 8.
 
 ## Skills & Technologies
 
@@ -38,17 +40,43 @@ Download my resume: [View Resume](./resume.pdf)
 
 ## Projects
 
-### Project 1: [Project Name]
-**Description**: Briefly describe what the project is about
-- **Tech Stack**: List technologies used
-- **GitHub**: [Link to repository]
-- **Live Demo**: [Link to live demo if available]
+### Project 1: 🔐 MyLocker: Digital Gatepass & Identity Ecosystem
+**Description**: A robust, cross-platform digital gatepass and identity management system designed as a comprehensive B.Tech final year project that replaces vulnerable manual entry logs and physical ID cards with high-speed, secure QR code validation and real-time cloud auditing.
 
-### Project 2: [Project Name]
-**Description**: Briefly describe what the project is about
-- **Tech Stack**: List technologies used
-- **GitHub**: [Link to repository]
-- **Live Demo**: [Link to live demo if available]
+**Key Features**:
+- Role-Based Access Control (RBAC) with strict security routing for Students, Guards, and Administrators
+- Three-Node Architecture: Student App (dynamic QR generation), Guard Scanner (entry validation), Admin Web Dashboard (real-time monitoring)
+- Atomic Database Transactions using Firestore WriteBatch operations for 100% data consistency
+- Cost-Optimized Cloud Infrastructure with server-side composite indexing
+
+**Tech Stack**: 
+- Frontend: Flutter 3.19+ (Dart 3) - iOS, Android, Web
+- Backend: Firebase with Cloud Firestore (NoSQL)
+- Authentication: Firebase Auth
+
+### Project 2: 🎬 Vibe Match Movies
+**Description**: A modern Flutter application designed to help users discover films that match their current mood or "vibe." Built with a sleek, dark-themed interface for an intuitive and immersive movie-browsing experience.
+
+**Key Features**:
+- Vibe-Based Discovery: Find movies tailored to specific mood or preference
+- Modern UI: Clean, dark-mode design optimized for a cinematic feel
+- Cross-Platform: Consistent experience on iOS and Android
+
+**Tech Stack**: Flutter, Dart
+
+### Project 3: 🎮 Virtual Gamepad: Zero-Latency Tri-Mode Controller
+**Description**: A high-performance virtual gamepad application that seamlessly emulates a physical Xbox controller on Windows PC with native-feeling full-screen swipe controls and zero-latency connectivity.
+
+**Key Features**:
+- Tri-Mode Connectivity: UDP over Wi-Fi, Bluetooth, and USB (ADB port forwarding)
+- Invisible Swipe Camera: Full-screen right half swipe zone for camera controls with raw pointer event listeners
+- Zero-Lag Protocol: Custom 18-byte binary UDP packet structure eliminating JSON serialization overhead
+- Kernel-Level PC Emulation: C# .NET 8 host server with ViGEmBus emulation driver
+
+**Tech Stack**: 
+- Mobile: Flutter, Riverpod (State Management), get_it (Dependency Injection)
+- PC Host: C# .NET 8, ViGEmBus emulation driver
+- Networking: Raw dart:io DatagramSockets (UDP) with binary serialization
 
 ## Open Source Contributions
 
@@ -65,4 +93,4 @@ I'm open to:
 
 ---
 
-**Last Updated**: May 22, 2026
+**Last Updated**: May 23, 2026
