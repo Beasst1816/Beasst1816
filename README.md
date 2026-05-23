@@ -8,7 +8,7 @@ I'm a passionate developer dedicated to building innovative solutions and learni
 
 ## Featured Projects
 
-- **🔐 MyLocker: Digital Gatepass & Identity Ecosystem** - A robust, cross-platform digital gatepass and identity management system built with Flutter and Firebase. Features role-based access control, three-node architecture, atomic database transactions, and cost-optimized cloud infrastructure. Designed as a comprehensive B.Tech final year project.
+- **🔐 MyLocker: Digital Gatepass & Identity Ecosystem** - A robust, cross-platform digital gatepass and identity management system built with Flutter and Firebase. Features role-based access control, three-node architecture, atomic database transactions, and cost-optimized cloud infrastructure. Designed as a comprehensive BSc IT final year project.
 
 - **🎬 Vibe Match Movies** - A modern Flutter application that helps users discover films matching their current mood or "vibe." Built with a sleek, dark-themed interface providing an intuitive and immersive movie-browsing experience across iOS and Android platforms.
 
