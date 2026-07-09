@@ -36,7 +36,7 @@ I'm always interested in connecting with recruiters, collaborators, and fellow d
 
 ## Resume
 
-Download my resume: [View Resume](./resume.pdf)
+Download my resume: [View Resume](./RESUME.pdf)
 
 ## Projects
 
